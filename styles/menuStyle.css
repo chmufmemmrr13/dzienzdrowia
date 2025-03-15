@@ -9,6 +9,7 @@ html, body{
     background-size: 100%;
     display: flex;
     font-family: 'TmonMonsori';
+    user-select: none;
 }
 #title{
     height: 50%;
